@@ -1,0 +1,17 @@
+.jumbotron{
+	text-align: center;
+	margin: 100px;
+	background: black;
+	color: white;
+}
+
+.table{
+	margin: 0 auto;
+	margin-bottom: 100px;
+
+}
+
+.input{
+	margin: 0 auto;
+	text-align: center;
+}
